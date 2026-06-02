@@ -1,0 +1,20 @@
+.navbar {
+display: flex;
+justify-content: space-between;
+align-items: center;
+background-color: #333;
+padding : 1rem 2rem;
+color: red;
+}
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+}
+.card {
+  flex: 1 1 280px;   /* grow, shrink, min 280px wide */
+  background: white;
+  border-radius: 8px;
+  padding: 1.5rem;
+}
+
