@@ -1,0 +1,46 @@
+Attached Element Context from Integrated Browser
+
+Element: html
+
+URL: file:///Users/nayanaachatterjee/Documents/GitHub/html_css_js/h.html
+
+HTML Path: html
+
+Outer HTML:
+```html
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="h.css">
+        <script type="module" src="app.js"></script>
+
+</head>
+<body>
+    <!--<script src="var.js"></script>
+    <script src="let.js"></script>
+    <script src="const.js"></script>-->
+    
+    <h1>This is a heading</h1>
+    <h2>This is a subheading</h2>
+    <h3>This is a smaller heading</h3>
+
+</body></html>
+```
+
+Dimensions:
+- top: 0px
+- left: 0px
+- width: 632px
+- height: 168px
+
+CSS:
+```css
+
+
+/* Resolved values */
+display: block;
+height: 167.508px;
+view-transition-name: root /*UA*/;
+width: 632px;
+```
