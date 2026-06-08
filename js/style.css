@@ -1,0 +1,48 @@
+/* Style the entire page */
+body {
+
+    /* Center all content horizontally */
+    text-align: center;
+
+    /* Add space from the top */
+    margin-top: 100px;
+
+    /* Smooth color transition effect */
+    transition: background-color 0.5s ease;
+
+    /* Default background color */
+    background-color: white;
+
+    /* Font style */
+    font-family: Arial, sans-serif;
+}
+
+/* Style the heading */
+h1 {
+    color: black;
+}
+
+/* Style the button */
+button {
+
+    /* Inner spacing */
+    padding: 12px 24px;
+
+    /* Increase text size */
+    font-size: 18px;
+
+    /* Show pointer on hover */
+    cursor: pointer;
+
+    /* Remove default border */
+    border: none;
+
+    /* Button background color */
+    background-color: blue;
+
+    /* Button text color */
+    color: white;
+
+    /* Rounded corners */
+    border-radius: 5px;
+}
